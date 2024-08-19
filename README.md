@@ -4,7 +4,6 @@
 
 
 
-
 The employment sector is continuously evolving, with job seekers and employers facing numerous challenges. 
 Job seekers often struggle to find suitable job opportunities that match their skills and preferences, while employers find it difficult to attract qualified candidates for their job postings. 
 With the advent of advanced data analytics and machine learning, there is an opportunity to enhance the job matching process, 
@@ -111,4 +110,4 @@ top talent.
 emphasize new job postings to capitalize on their
 initial attractiveness and draw immediate attention.
 
-
+## Enjoy some recommendations with this deployed web version [Here] (https://predictandrecommendjobs.streamlit.app/)
