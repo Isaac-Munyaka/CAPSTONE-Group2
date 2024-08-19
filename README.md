@@ -110,4 +110,4 @@ top talent.
 emphasize new job postings to capitalize on their
 initial attractiveness and draw immediate attention.
 
- ## Enjoy some recommendations with this deployed web version [Here](https://predictandrecommendjobs.streamlit.app/)
+ ## Enjoy some recommendations with deployed web version found [Here.](https://predictandrecommendjobs.streamlit.app/)
